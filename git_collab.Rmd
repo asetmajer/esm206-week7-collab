@@ -9,4 +9,15 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Hi Partner!
+Hi Partner! 
+
+Alex, here is your code chunk:
+```{r Alex}
+
+```
+
+Here is my code chunk
+```{r Eva}
+
+```
+
